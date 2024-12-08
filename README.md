@@ -1,2 +1,3 @@
 # ecommerce
-This is first Repository
+This is first Repository.
+this is first commit
